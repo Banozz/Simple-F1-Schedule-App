@@ -1,0 +1,354 @@
+<resources>
+    <string name="app_name">Praktikum App F1</string>
+    <string name="title_home">Home</string>
+    <string name="title_race">Race</string>
+    <string name="title_profile">Profile</string>
+    <string name="more_info_btn">Check it out!</string>
+
+    <string name="creator_name">Ibrahim Nur Huda</string>
+    <string name="creator_NIM">L0122076</string>
+    <string name="creator_prodi">Informatika, 22</string>
+    <string name="creator_fakultas">Fakultas Teknologi Informasi dan Sains Data</string>
+    <string name="creator_univ">Universitas Sebelas Maret</string>
+    <string name="creator_email">ibrahimnrhd@student.uns.ac.id</string>
+
+    <string name="home_event_title">Home</string>
+    <string name="home_event_desc">
+        A one stop schedule app to track all the Formula 1 events of the year for the year of 2024. This app includes
+        info for all 24 races from the rounds, name, date, image of the track, brief description, and a button
+        that links to the Formula 1 website for even more details about the Grand Prix history, statistics,
+        former winner, former pole positions, etc.
+    </string>
+    <string name="home_event_app_title">F1 Schedule 2024 Season App</string>
+    <string name="home_event_briefDesc">More info about Formula 1 2024 Season!</string>
+
+    <string name="fav_circuit_title"><b>My Favorite Circuit</b></string>
+    <string name="fav_circuit_name">Spa-Francorchamps</string>
+    <string name="fav_circuit_desc"><b>Circuit de Spa-Francorchamps</b>\n
+        (French pronunciation: [siʁkɥi də spa fʁɑ̃kɔʁʃɑ̃]), informally referred to as Spa,[1][2] is a 7.004 km (4.352 mi)
+        motor-racing circuit located in Francorchamps, Stavelot, Wallonia, Belgium, about 8 km (5.0 mi) southeast of Spa.
+        It is the current venue of the Formula One Belgian Grand Prix, hosting its first Grand Prix in 1925, and has held
+        a Grand Prix every year since 1985 except 2003 and 2006.
+    </string>
+    <string name="btnToGithub">My Github!</string>
+    <string name="btnToInstagram">My Instagram!</string>
+    <string name="btnToShare">Share My Profile!</string>
+
+    <string name="briefDesc">Check out my LinkTree!</string>
+
+    <string name="tv_circuit_name">This is Circuit Name</string>
+
+    <string name="tab_text_1">Calendar</string>
+    <string name="tab_text_2">Driver</string>
+
+
+    <string name="race_name">Nama Balapan</string>
+    <string name="description">Deskripsi</string>
+    <string name="btnToF1">Check out on formula1.com</string>
+    <string name="detailedDescText">
+        Using the button below you can find the full weekend schedule, including details of practice and qualifying sessions, support races,
+        press conferences and special events, plus the latest news headlines, circuit information and F1 race results.\n\nYou can also find
+        broadcast information, with details of how and where you can watch the race on TV by clicking on the button below!
+    </string>
+
+    <string-array name="data_name">
+        <item>Round 1 - Bahrain Grand Prix</item>
+        <item>Round 2 - Saudi Arabian Grand Prix</item>
+        <item>Round 3 - Australian Grand Prix</item>
+        <item>Round 4 - Japanese Grand Prix</item>
+        <item>Round 5 - Chinese Grand Prix</item>
+        <item>Round 6 - Miami Grand Prix</item>
+        <item>Round 7 - Emilia-Romagna Grand Prix</item>
+        <item>Round 8 - Grand Prix De Monaco</item>
+        <item>Round 9 - Canadian Grand Prix</item>
+        <item>Round 10 - Spanish Grand Prix</item>
+        <item>Round 11 - Austrian Grand Prix</item>
+        <item>Round 12 - British Grand Prix</item>
+        <item>Round 13 - Hungarian Grand Prix</item>
+        <item>Round 14 - Belgian Grand Prix</item>
+        <item>Round 15 - Dutch Grand Prix</item>
+        <item>Round 16 - Italian Grand Prix</item>
+        <item>Round 17 - Azerbaijan Grand Prix</item>
+        <item>Round 18 - Singapore Grand Prix</item>
+        <item>Round 19 - US Grand Prix</item>
+        <item>Round 20 - Mexican Grand Prix</item>
+        <item>Round 21 - Brazilian Grand Prix</item>
+        <item>Round 22 - Las Vegas Grand Prix</item>
+        <item>Round 23 - Qatar Grand Prix</item>
+        <item>Round 24 - Abu Dhabi Grand Prix</item>
+    </string-array>
+
+    <string-array name="data_full_name">
+        <item><![CDATA[Formula 1 Gulf Air Bahrain Grand Prix 2024]]></item>
+        <item><![CDATA[Formula 1 STC Saudi Arabian Grand Prix 2024]]></item>
+        <item><![CDATA[Formula 1 Rolex Australian Grand Prix 2024]]></item>
+        <item><![CDATA[Formula 1 MSC Cruises Japanese Grand Prix 2024]]></item>
+        <item><![CDATA[Formula 1 Lenovo Chinese Grand Prix 2024]]></item>
+        <item><![CDATA[Formula 1 CRYPTO.COM Miami Grand Prix 2024]]></item>
+        <item><![CDATA[Formula 1 MSC Cruises Gran Premio Del Made in Italy E Dell\'Emilia-Romagna Grand Prix 2024]]></item>
+        <item><![CDATA[Formula 1 Grand Prix De Monaco 2024]]></item>
+        <item><![CDATA[Formula 1 AWS Grand Prix Du Canada 2024]]></item>
+        <item><![CDATA[Formula 1 Aramco Gran Premio De Espana 2024]]></item>
+        <item><![CDATA[Formula 1 Qatar Airways Austrian Grand Prix 2024]]></item>
+        <item><![CDATA[Formula 1 Qatar Airways British Grand Prix 2024]]></item>
+        <item><![CDATA[Formula 1 Hungarian Grand Prix 2024]]></item>
+        <item><![CDATA[Formula 1 Rolex Belgian Grand Prix 2024]]></item>
+        <item><![CDATA[Formula 1 Heineken Dutch Grand Prix 2024]]></item>
+        <item><![CDATA[Formula 1 Pirelli Gran Premio D\'Italia 2024]]></item>
+        <item><![CDATA[Formula 1 Qatar Airways Azerbaijan Grand Prix 2024]]></item>
+        <item><![CDATA[Formula 1 Singapore Airlines Singapore Grand Prix 2024]]></item>
+        <item><![CDATA[Formula 1 Pirelli United States Grand Prix 2024]]></item>
+        <item><![CDATA[Formula 1 Gran Premio De La Ciudad De Mexico 2024]]></item>
+        <item><![CDATA[Formula 1 Lenovo Grande Premio De Sao Paulo 2024]]></item>
+        <item><![CDATA[Formula 1 Heineken Silver Las Vegas Grand Prix 2024]]></item>
+        <item><![CDATA[Formula Qatar Airways Qatar Grand Prix 2024]]></item>
+        <item><![CDATA[Formula 1 Etihad Airways Abu Dhabi Grand Prix 2024]]></item>
+    </string-array>
+
+    <string-array name="data_date">
+        <item>29 Feb - 02 Mar</item>
+        <item>07 Mar - 09 Mar</item>
+        <item>22 Mar - 24 Mar</item>
+        <item>05 Apr - 07 Apr</item>
+        <item>19 Apr - 21 Apr</item>
+        <item>03 May - 05 May</item>
+        <item>17 May - 19 May</item>
+        <item>24 May - 26 May</item>
+        <item>07 Jun - 09 Jun</item>
+        <item>21 Jun - 23 Jun</item>
+        <item>28 Jun - 30 Jun</item>
+        <item>05 Jul - 07 Jul</item>
+        <item>19 Jul - 21 Jul</item>
+        <item>26 Jul - 28 Jul</item>
+        <item>23 Aug - 25 Aug</item>
+        <item>30 Aug - 01 Sep</item>
+        <item>13 Sep - 15 Sep</item>
+        <item>20 Sep - 22 Sep</item>
+        <item>18 Oct - 20 Oct</item>
+        <item>24 Oct - 27 Oct</item>
+        <item>01 Nov - 03 Nov</item>
+        <item>21 Nov - 23 Nov</item>
+        <item>29 Nov - 01 Dec</item>
+        <item>06 Dec - 08 Dec</item>
+    </string-array>
+
+    <integer-array name="data_img">
+        <item>@drawable/bahraingp</item>
+        <item>@drawable/saudiarabiangp</item>
+        <item>@drawable/australiangp</item>
+        <item>@drawable/japanesegp</item>
+        <item>@drawable/chinagp</item>
+        <item>@drawable/miamigp</item>
+        <item>@drawable/emiliaromagnagp</item>
+        <item>@drawable/monacogp</item>
+        <item>@drawable/canadagp</item>
+        <item>@drawable/spaingp</item>
+        <item>@drawable/austriangp</item>
+        <item>@drawable/britishgp</item>
+        <item>@drawable/hungariangp</item>
+        <item>@drawable/belgiangp</item>
+        <item>@drawable/dutchgp</item>
+        <item>@drawable/italiangp</item>
+        <item>@drawable/azerbaijangp</item>
+        <item>@drawable/singaporegp</item>
+        <item>@drawable/usgp</item>
+        <item>@drawable/mexicangp</item>
+        <item>@drawable/braziliangp</item>
+        <item>@drawable/lasvegasgp</item>
+        <item>@drawable/qatargp</item>
+        <item>@drawable/abudhabigp</item>
+    </integer-array>
+
+    <string-array name="data_web">
+        <item>https://www.formula1.com/en/racing/2024/Bahrain.html</item>
+        <item>https://www.formula1.com/en/racing/2024/Saudi_Arabia.html</item>
+        <item>https://www.formula1.com/en/racing/2024/Australia.html</item>
+        <item>https://www.formula1.com/en/racing/2024/Japan.html</item>
+        <item>https://www.formula1.com/en/racing/2024/China.html</item>
+        <item>https://www.formula1.com/en/racing/2024/Miami.html</item>
+        <item>https://www.formula1.com/en/racing/2024/EmiliaRomagna.html</item>
+        <item>https://www.formula1.com/en/racing/2024/Monaco.html</item>
+        <item>https://www.formula1.com/en/racing/2024/Canada.html</item>
+        <item>https://www.formula1.com/en/racing/2024/Spain.html</item>
+        <item>https://www.formula1.com/en/racing/2024/Austria.html</item>
+        <item>https://www.formula1.com/en/racing/2024/Great_Britain.html</item>
+        <item>https://www.formula1.com/en/racing/2024/Hungary.html</item>
+        <item>https://www.formula1.com/en/racing/2024/Belgium.html</item>
+        <item>https://www.formula1.com/en/racing/2024/Netherlands.html</item>
+        <item>https://www.formula1.com/en/racing/2024/Italy.html</item>
+        <item>https://www.formula1.com/en/racing/2024/Azerbaijan.html</item>
+        <item>https://www.formula1.com/en/racing/2024/Singapore.html</item>
+        <item>https://www.formula1.com/en/racing/2024/United_States.html</item>
+        <item>https://www.formula1.com/en/racing/2024/Mexico.html</item>
+        <item>https://www.formula1.com/en/racing/2024/Brazil.html</item>
+        <item>https://www.formula1.com/en/racing/2024/Las_Vegas.html</item>
+        <item>https://www.formula1.com/en/racing/2024/Qatar.html</item>
+        <item>https://www.formula1.com/en/racing/2024/United_Arab_Emirates.html</item>
+    </string-array>
+
+    <string-array name="data_desc">
+        <item><![CDATA[Location: Bahrain International Circuit\nThe Bahrain Grand Prix, officially known as the Gulf Air
+        Bahrain Grand Prix for sponsorship reasons, is a Formula One motor racing event in Bahrain. The first race took
+        place at the Bahrain International Circuit on 4 April 2004. It made history as the first Formula One Grand Prix
+        to be held in the Middle East, and was given the award for the "Best Organised Grand Prix" by the FIA.]]>
+        </item>
+        <item><![CDATA[Location: Jeddah Corniche Circuit\nThe Saudi Arabian Grand Prix (Arabic: جائزة السعودية الكبرى)
+        is a Formula One motor racing event which took place for the first time in 2021.
+        The inaugural edition of the race was held in Jeddah, in Saudi Arabia.
+        It was the fifth full-night race title on the Formula One calendar, following the Singapore,
+        Bahrain, Sakhir and Qatar Grands Prix.]]>
+        </item>
+        <item><![CDATA[Location: Albert Partk Circuit\nThe Australian Grand Prix is an annual motor racing event
+        which is under contract to host Formula One until 2035. One of the oldest surviving motorsport competitions
+        held in Australia, the Grand Prix has moved frequently with 23 different venues having been used since it
+        was first run at Phillip Island in 1928. The race became part of the Formula One World Championship in 1985.
+        Since 1996, it has been held at the Albert Park Circuit in Melbourne, with the exceptions of 2020 and 2021,
+        when the races were cancelled due to the COVID-19 pandemic. Before that, it was held in Adelaide.]]>
+        </item>
+        <item><![CDATA[Location: Suzuka Circuit\nThe Japanese Grand Prix is a motor racing event in the calendar of
+        the Formula One World Championship. Historically, Japan has been one of the last races of the season, and
+        as such the Japanese Grand Prix has been the venue for many title-deciding races, with 13 World Drivers\'
+        Champions being crowned over the 36 World Championship Japanese Grands Prix that have been hosted. Japan
+        was the only Asian nation to host a Formula One race (including the Pacific Grand Prix) until Malaysia
+        joined the calendar in 1999.]]>
+        </item>
+        <item><![CDATA[Location: Shanghai International Circuit\nThe Chinese Grand Prix (Chinese: 中国大奖赛; pinyin:
+        Zhōngguó Dàjiǎngsài) is a round of the Formula One World Championship. The event was held every year from 2004
+        until 2019 and is contracted to be held until 2025. The event was suspended from 2020 to 2023 due to the COVID-19
+        pandemic in China.]]>
+        </item>
+        <item><![CDATA[Location: Miami International Autodrome\n
+        The Miami Grand Prix is a Formula One Grand Prix which was held for the first time during the 2022 season,
+        with the event taking place at the Miami International Autodrome on a ten-year contract.]]>
+        </item>
+        <item><![CDATA[Location: Autodromo Intenazionale Enzo e Dino Ferrari\n
+        The Emilia Romagna Grand Prix is a Formula One motor racing event held at the Autodromo Internazionale Enzo e
+        Dino Ferrari, often referred to as "Imola" after the town where it is located.The event takes the name
+        "Emilia-Romagna" from the Italian region where the circuit is located. The venue has previously hosted the
+        Italian Grand Prix in 1980, and the San Marino Grand Prix from 1981 to 2006.]]>
+        </item>
+        <item><![CDATA[Location: Circuit de Monaco\n
+        The Monaco Grand Prix is a Formula One motor racing event held annually on the Circuit de Monaco, in late May
+        or early June. Run since 1929, it is widely considered to be one of the most important and prestigious
+        automobile races in the world, and is one of the races—along with the Indianapolis 500 and the 24 Hours of
+        Le Mans—that form the Triple Crown of Motorsport. It is the only Grand Prix that does not adhere to the FIA\'s
+        mandated 305-kilometre (190-mile) minimum race distance for F1 races.]]>
+        </item>
+        <item><![CDATA[Location: Circuit Gilles Villeneuve\n
+        The Canadian Grand Prix is an annual motor racing event held since 1961. It has been part of the Formula One
+        World Championship since 1967. It was first staged at Mosport Park in Bowmanville, Ontario, as a sports car
+        event, before alternating between Mosport and Circuit Mont-Tremblant, Quebec, after Formula One took over the
+        event. After 1971, safety concerns led to the Grand Prix moving permanently to Mosport. In 1978, after similar
+        safety concerns with Mosport, the Canadian Grand Prix moved to its current home at Circuit Gilles Villeneuve
+        on Notre Dame Island in Montreal, Quebec.]]>
+        </item>
+        <item><![CDATA[Location: Circuit de Barcelona-Catalunya\n
+        The Spanish Grand Prix is a Formula One motor racing event currently held at the Circuit de Barcelona-Catalunya.
+        The race is one of the oldest in the world still contested, celebrating its centenary in 2013. The race had
+        modest beginnings as a production car race. Interrupted by the First World War, the race waited a decade for
+        its second running before becoming a staple of the European calendar. In 1927 it was part of the World
+        Manufacturers\' Championship; it was promoted to the European Championship in 1935 before the Spanish Civil War
+        brought an end to racing. The race was successfully revived in 1967 and has been a regular part of the
+        Formula One World Championship since 1968 (except 1982–1985) at a variety of venues.]]>
+        </item>
+        <item><![CDATA[Location: Red Bull Ring\n
+        The Austrian Grand Prix is a Fédération Internationale de l\'Automobile sanctioned motor racing event that
+        was held in 1964, 1970–1987, 1997–2003, and then returned to the Formula One calendar in 2014.]]>
+        </item>
+        <item><![CDATA[Location: Silverstone Circuit\n
+        The British Grand Prix is a Grand Prix motor racing event organised in the United Kingdom by Motorsport UK.
+        First held by the Royal Automobile Club (RAC) in 1926, the British Grand Prix has been held annually since
+        1948 and has been a round of the FIA Formula One World Championship every year since 1950. In 1952, following
+        the transfer of the lease of the Silverstone Circuit to the British Racing Drivers\' Club,[1] the RAC
+        delegated the organisation of races held at Silverstone to the BRDC,[2] and those held at Aintree to the
+        British Automobile Racing Club.[3] This arrangement lasted until the RAC created the Motor Sports Association
+        in the late 1970s and it reclaimed organising control of the event. The RAC MSA was renamed Motorsport UK in
+        2019 when it formally split from the RAC.]]>
+        </item>
+        <item><![CDATA[Location: Hungaroring\n
+        The Hungarian Grand Prix (Hungarian: Magyar Nagydíj) is a motor racing event held annually in Mogyoród at
+        the Hungaroring. Since 1986, the race has been a round of the FIA Formula One World Championship. The first
+        Hungarian Grand Prix was held on 21 June 1936 over a 5-kilometre (3.1-mile) track laid out in Népliget, a
+        park in Budapest. The Mercedes-Benz, Auto Union, and the Alfa Romeo-equipped Ferrari teams all sent three
+        cars and the event drew a very large crowd. However, politics and the ensuing war meant the end of Grand Prix
+        motor racing in the country for fifty years.]]>
+        </item>
+        <item><![CDATA[Location: Circuit de Spa-Francorchamps\n
+        The Belgian Grand Prix (French: Grand Prix de Belgique; Dutch: Grote Prijs van België; German: Großer Preis
+        von Belgien) is a motor racing event which forms part of the Formula One World Championship. The first national
+        race of Belgium was held in 1925 at the Spa region\'s race course, an area of the country that had been
+        associated with motor sport since the very early years of racing. To accommodate Grand Prix motor racing,
+        the Circuit de Spa-Francorchamps race course was built in 1921 but until 1924 it was used only for motorcycle
+        racing. After the 1923 success of the new 24 hours of Le Mans in France, the Spa 24 Hours, a similar 24-hour
+        endurance race, was run at the Spa track.]]>
+        </item>
+        <item><![CDATA[Location: Circuit Zandvoort\n
+        The Dutch Grand Prix (Dutch: Grote Prijs van Nederland) is an annual Formula One World Championship auto
+        racing event, held at Circuit Zandvoort, North Holland, the Netherlands, from 1950 through 1985, and after a
+        35 year hiatus, from 2021 onwards. It has been a part of the Formula One World Championship since 1952, and
+        was designated the European Grand Prix twice, in 1962 and 1976, when this title was an honorary designation
+        given each year to one Grand Prix race in Europe.]]>
+        </item>
+        <item><![CDATA[Location: Autodromo Nazionale di Monza\n
+        The Italian Grand Prix (Italian: Gran Premio d\'Italia) is the fifth oldest national motor racing Grand Prix
+        (after the French Grand Prix, the United States Grand Prix, the Spanish Grand Prix and the Russian Grand Prix),
+        having been held since 1921. Since 2013, it has been the Grand Prix held the most times, with 93 editions as of
+        2023. It is one of the two Grands Prix (along with the British) which has run as an event of the Formula One
+        World Championship Grands Prix every season, continuously since the championship was introduced in 1950. Every
+        Formula One Italian Grand Prix in the World Championship era has been held at Monza except in 1980, when it was
+        held at Imola.]]>
+        </item>
+        <item><![CDATA[Location: Baku City Circuit\n
+        The Azerbaijan Grand Prix (Azerbaijani: Azərbaycan Qran Prisi) is a Formula One motor racing event that was
+        held for the first time in 2017. It is held on the Baku City Circuit, a street circuit in Baku, the capital
+        of Azerbaijan. The first Formula One Grand Prix to be held in Azerbaijan was the 2016 European Grand Prix,
+        which took place at the Baku City Circuit. A year later, in 2017, the same venue hosted the first Azerbaijan
+        Grand Prix. The race was held on 25 June and was one of five races to be held on a street circuit during the
+        2017 Formula One season, along with the Singapore, Monaco, Australian and Canadian Grands Prix. The first
+        Azerbaijan Grand Prix winner was Daniel Ricciardo of Red Bull, grabbing his first win of the 2017 campaign
+        during Sunday\'s Azerbaijan Grand Prix.]]>
+        </item>
+        <item><![CDATA[Location: Marina Bay Street Circuit\n
+        The Singapore Grand Prix is a motor racing event which forms part of the Formula One World Championship.
+        The event takes place on the Marina Bay Street Circuit and was the inaugural night race and first street
+        circuit in Asia designed for Formula One races.]]>
+        </item>
+        <item><![CDATA[Location: Circuit of the Americas\n
+        The United States Grand Prix is a motor racing event that has been held on and off since 1908, when it was
+        known as the American Grand Prize. The Grand Prix later became part of the Formula One World Championship.
+        As of 2023, the Grand Prix has been held 52 times at ten different locations. Since 2012, it has been held
+        every year at the Circuit of the Americas in Austin, Texas, except in 2020 when it was cancelled due to the
+        COVID-19 pandemic.]]>
+        </item>
+        <item><![CDATA[Location: Autódromo Hermanos Rodríguez\n
+        The Mexican Grand Prix (Spanish: Gran Premio de México), currently held under the name Mexico City Grand Prix
+        (Spanish: Gran Premio de la Ciudad de México), is a motor racing event held at the Autódromo Hermanos Rodríguez
+        in Mexico City. It first appeared as a non-championship event in 1962 before being held as a championship event
+        in 1963–1970 and 1986–1992. The Grand Prix returned in 2015 at the Mexico City circuit.]]>
+        </item>
+        <item><![CDATA[Location: Autódromo José Carlos Pace\n
+        The Brazilian Grand Prix (Portuguese: Grande Prêmio do Brasil), currently held under the name São Paulo Grand
+        Prix (Portuguese: Grande Prêmio de São Paulo), is a Formula One championship race which is currently held at
+        the Autódromo José Carlos Pace in Interlagos neighborhood, Cidade Dutra, São Paulo.Formula 1 Lenovo Grande
+        Premio De Sao Paulo 2024]]>
+        </item>
+        <item><![CDATA[Location: Las Vegas Strip Circuit\n
+        The Las Vegas Grand Prix is a motor racing event that forms part of the Formula One World Championship, taking
+        place in Paradise, Nevada, in the United States. It is conducted as a night race on a temporary street circuit
+        that includes parts of the Las Vegas Strip. The first race was held on November 18, 2023. Formula One and Las
+        Vegas have signed a ten-year agreement for the race.]]>
+        </item>
+        <item><![CDATA[Location: Losail International Circuit\n
+        The Qatar Grand Prix is a Formula One motor racing event which is held in Qatar. It was held for the first time
+        on 21 November as part of the 2021 championship at the Lusail International Circuit, and after not taking place
+        during the 2022 season due to the 2022 FIFA World Cup taking place in Qatar, it rejoined the calendar in 2023
+        under a 10-year contract. The race was established as the fourth full-night race (as opposed to day or
+        day-to-night races) on the Formula One calendar, following the Singapore, Bahrain and Sakhir Grands Prix.]]>
+        </item>
+        <item><![CDATA[Location: Yas Marina Circuit\n
+        The Abu Dhabi Grand Prix (Arabic: سباق جائزة أبوظبي الكبرى) is a Formula One motor racing event. The first race
+        took place on 1 November 2009, held at the Hermann Tilke-designed Yas Marina Circuit on Yas Island, near Abu
+        Dhabi, the capital of the United Arab Emirates.]]>
+        </item>
+    </string-array>
+</resources>

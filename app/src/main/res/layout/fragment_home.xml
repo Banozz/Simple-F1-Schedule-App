@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.home.HomeFragment">
+
+    <!--
+    <TextView
+        android:id="@+id/home_title"
+        android:layout_width="370dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingStart="7dp"
+        android:paddingEnd="7dp"
+        android:text="Home"
+        android:textColor="@color/black"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.487"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.092"
+        tools:text="Home" /> -->
+
+    <ImageView
+        android:id="@+id/image_title"
+        android:layout_width="match_parent"
+        android:layout_height="83dp"
+        android:layout_marginBottom="4dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/schedule_title"
+        app:layout_constraintBottom_toTopOf="@+id/event_date"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/image_logo"
+        android:layout_width="293dp"
+        android:layout_height="69dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/f1logo"
+        app:layout_constraintBottom_toTopOf="@+id/image_title"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.765" />
+
+    <TextView
+        android:id="@+id/home_desc"
+        android:layout_width="370dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:justificationMode="inter_word"
+        android:paddingStart="7dp"
+        android:paddingEnd="7dp"
+        android:text="@string/home_event_desc"
+        android:textColor="@color/black"
+        android:textSize="14sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.487"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/event_date"
+        app:layout_constraintVertical_bias="0.022"
+        tools:text="@string/home_event_desc" />
+
+    <TextView
+        android:id="@+id/event_briefDesc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingStart="7dp"
+        android:paddingEnd="7dp"
+        android:text="@string/home_event_briefDesc"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.703"
+        tools:text="More info about Formula 1 2024 Season!" />
+
+    <TextView
+        android:id="@+id/event_date"
+        android:layout_width="370dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="432dp"
+        android:gravity="center"
+        android:paddingStart="7dp"
+        android:paddingEnd="7dp"
+        android:text="@string/home_event_app_title"
+        android:textColor="@color/black"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.487"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:text="F1 Schedule 2024 Season App" />
+
+    <Button
+        android:id="@+id/moreInfoBtnHome"
+        android:layout_width="370dp"
+        android:layout_height="48dp"
+        android:autoSizeTextType="none"
+        android:text="@string/more_info_btn"
+        android:textAllCaps="false"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.487"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.761"
+        tools:text="Check it out!" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
